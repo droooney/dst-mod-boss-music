@@ -8,6 +8,7 @@ local bossEvents = {
     EYE_OF_TERROR = {"eyeofterror"},
     KLAUS = {"klaus"},
     MALBATROSS = {"malbatross"},
+    NIGHTMARE_WEREPIG = {"daywalker"},
     SHADOW_PIECES = {"shadowchess"},
     TOADSTOOL = {"toadstool"},
 }

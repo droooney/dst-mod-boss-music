@@ -1,7 +1,7 @@
 name = "Boss Music"
 description = "Changes music volume during boss fights and changes it back after the fight"
 author = "jimmybaxter"
-version = "1.0"
+version = "1.1"
 api_version = 10
 dst_compatible = true
 all_clients_require_mod = false
@@ -56,6 +56,7 @@ configuration_options = {
     createBossOption("EYE_OF_TERROR", "Eye/Twins of Terror"),
     createBossOption("KLAUS", "Klaus"),
     createBossOption("MALBATROSS", "Malbatross"),
+    createBossOption("NIGHTMARE_WEREPIG", "Nightmare Werepig"),
     createBossOption("SHADOW_PIECES", "Shadow Pieces"),
     createBossOption("TOADSTOOL", "Toadstool"),
 }
