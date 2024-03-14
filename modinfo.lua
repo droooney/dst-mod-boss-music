@@ -1,7 +1,7 @@
 name = "Boss Music"
 description = "Changes music volume during boss fights and changes it back after the fight"
 author = "jimmybaxter"
-version = "1.1"
+version = "1.2"
 api_version = 10
 dst_compatible = true
 all_clients_require_mod = false
@@ -54,9 +54,11 @@ configuration_options = {
     createBossOption("CRAB_KING", "Crab King"),
     createBossOption("DRAGONFLY", "Dragonfly"),
     createBossOption("EYE_OF_TERROR", "Eye/Twins of Terror"),
+    createBossOption("FROSTJAW", "Frostjaw"),
     createBossOption("KLAUS", "Klaus"),
+    createBossOption("LUNAR_MUTATED_BOSSES", "Lunar Mutated Bosses"),
     createBossOption("MALBATROSS", "Malbatross"),
-    createBossOption("NIGHTMARE_WEREPIG", "Nightmare Werepig"),
+    createBossOption("NIGHTMARE_WEREPIG", "Nightmare/Scrappy Werepig"),
     createBossOption("SHADOW_PIECES", "Shadow Pieces"),
     createBossOption("TOADSTOOL", "Toadstool"),
 }
