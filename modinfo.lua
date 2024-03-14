@@ -1,7 +1,7 @@
 name = "Boss Music"
 description = "Changes music volume during boss fights and changes it back after the fight"
 author = "jimmybaxter"
-version = "1.2"
+version = "1.2.1"
 api_version = 10
 dst_compatible = true
 all_clients_require_mod = false
